@@ -60,6 +60,7 @@ Saya menggunakan berbagai macam bahasa dan teknologi untuk membangun aplikasi da
 ---
 
 ## 📈 GitHub Activity & Stats
+[![Mishbahul GitHub stats](https://github-readme-stats.vercel.app/api?username=mishbahulkhofid)]
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishbahulkhofid&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
