@@ -1,11 +1,4 @@
 ![Profile Terminal](https://cdn.jsdelivr.net/gh/mishbahulkhofid/mishbahulkhofid@main/assets/terminal-profile-banner.svg)<p align="center">
-  <img src="./header.svg" alt="GitHub Profile Header" width="100%">
-</p>
-
-
-<div align="center">
-  
-
   <p align="center">
     <img src="https://img.shields.io/badge/-Fullstack%20Developer-0077B5?style=flat-square" />
     <img src="https://img.shields.io/badge/-SMK%20Student-orange?style=flat-square" />
