@@ -1,3 +1,6 @@
+![Profile Terminal](https://raw.githubusercontent.com/mishbahulkhofid/mishbahulkhofid/main/assets/terminal-profile-banner.svg)
+
+
 <div align="center">
   
 
