@@ -34,7 +34,7 @@
   <circle cx="34" cy="32" r="6" fill="#ff5f56"/>
   <circle cx="54" cy="32" r="6" fill="#ffbd2e"/>
   <circle cx="74" cy="32" r="6" fill="#27c93f"/>
-  <text x="550" y="37" text-anchor="middle" class="title">USERNAME@agentlab ~ % ./profile --live</text>
+  <text x="550" y="37" text-anchor="middle" class="title">mishbahulkhofid@agentlab ~ % ./profile --live</text>
   <circle cx="1055" cy="32" r="5" fill="#ff4d4d"/>
   <text x="1035" y="37" text-anchor="end" class="dim" fill="#ff8080">SCANNING</text>
 
@@ -49,29 +49,30 @@
   <g clip-path="url(#portraitClip)">
     <rect x="44" y="120" width="460" height="320" fill="#050a10"/>
     <!-- REPLACE the line below with: <image href="your-ascii-portrait.png" x="44" y="120" width="460" height="320"/> -->
-    <text x="274" y="285" text-anchor="middle" fill="#123842" font-size="14">[ letakkan gambar ASCII portrait di sini ]</text>
+    <text x="274" y="285" text-anchor="middle" fill="#123842" font-size="14"><image href="https://raw.githubusercontent.com/mishbahulkhofid/mishbahulkhofid/main/assets/portrait-ascii-dots-fixed.png" x="44" y="120" width="460" height="320"/></text>
     <rect class="scanline" x="44" width="460" height="2" fill="#00fff2" opacity="0.5"/>
   </g>
 
   <!-- right panel -->
   <text x="560" y="102" class="dim">SYSTEM.INFO / RESEARCH.BUILDER</text>
-  <text x="560" y="126" class="link">username@agentlab</text>
+  <text x="560" y="126" class="link">mishbahulkhofid@agentlab</text>
   <text x="700" y="126" class="dim">-------------------------------------------</text>
 
-  <text x="560" y="156" class="label">. Subject:</text>       <text x="700" y="156" class="value">Nama Kamu</text>
+  <text x="560" y="156" class="label">. Subject:</text>       <text x="700" y="156" class="value">Mishbahul Khofid</text>
   <text x="560" y="180" class="label">. Role:</text>          <text x="700" y="180" class="value">Full-Stack Developer</text>
-  <text x="560" y="204" class="label">. Affiliation:</text>   <text x="700" y="204" class="value">Sekolah / Kampus / Perusahaan</text>
-  <text x="560" y="228" class="label">. Base:</text>          <text x="700" y="228" class="value">Kota, Negara</text>
-  <text x="560" y="252" class="label">. Status:</text>        <text x="700" y="252" class="value">Building / Shipping / Learning</text>
+  <text x="560" y="204" class="label">. Affiliation:</text>   <text x="700" y="204" class="value">SMKTelkom Malang</text>
+  <text x="560" y="228" class="label">. Base:</text>          <text x="700" y="228" class="value">Bojonegoro, Indonesia</text>
+  <text x="560" y="252" class="label">. Status:</text>        <text x="700" y="252" class="value">Building / Student / Learning</text>
 
   <text x="560" y="290" class="section">- DEV.STACK ------------------------------------</text>
-  <text x="560" y="314" class="label">. Primary:</text>  <text x="700" y="314" class="value">Flutter &amp; Web Technologies</text>
-  <text x="560" y="338" class="label">. Backend:</text>  <text x="700" y="338" class="value">Node.js / TypeScript / Go</text>
+  <text x="560" y="314" class="label">. Primary:</text>  <text x="700" y="314" class="value">Build &amp; Web Technologies</text>
+  <text x="560" y="338" class="label">. Backend:</text>  <text x="700" y="338" class="value">MySQL / TypeScript / Java</text>
+  <text x="560" y="338" class="label">. Frontend:</text>  <text x="700" y="338" class="value">HTML / CSS </text>
   <text x="560" y="362" class="label">. Focus:</text>    <text x="700" y="362" class="value">Full Stack &amp; Mobile Development</text>
 
   <text x="560" y="398" class="section">- GRID.LINKS ------------------------------------</text>
-  <text x="560" y="422" class="label">. GitHub:</text>  <text x="700" y="422" class="link">@username</text>
+  <text x="560" y="422" class="label">. GitHub:</text>  <text x="700" y="422" class="link">@mishbahulkhofid</text>
   <text x="560" y="446" class="dim">signal.locked &gt; </text><text x="700" y="446" class="link">FLUTTER / WEB / AI INTEGRATION</text><tspan class="cursor">_</tspan>
 
-  <text x="550" y="470" text-anchor="middle" class="footer">FLUTTER / WEB / AI INTEGRATION</text>
+  <text x="550" y="470" text-anchor="middle" class="footer">FULLSTACK / WEB / AI INTEGRATION</text>
 </svg>
