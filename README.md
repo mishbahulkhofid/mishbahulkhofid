@@ -1,4 +1,7 @@
 ![Profile Terminal](https://raw.githubusercontent.com/mishbahulkhofid/mishbahulkhofid/main/assets/terminal-profile-banner.svg)
+<p align="center">
+  <img src="./header.svg" alt="GitHub Profile Header" width="100%">
+</p>
 
 
 <div align="center">
