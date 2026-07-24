@@ -49,7 +49,7 @@
   <g clip-path="url(#portraitClip)">
     <rect x="44" y="120" width="460" height="320" fill="#050a10"/>
     <!-- REPLACE the line below with: <image href="your-ascii-portrait.png" x="44" y="120" width="460" height="320"/> -->
-    <text x="274" y="285" text-anchor="middle" fill="#123842" font-size="14"><image href="https://raw.githubusercontent.com/mishbahulkhofid/mishbahulkhofid/main/assets/portrait-ascii-dots-fixed.png" x="44" y="120" width="460" height="320"/></text>
+    <image href="https://raw.githubusercontent.com/mishbahulkhofid/mishbahulkhofid/main/assets/portrait-ascii-dots-fixed.png" x="44" y="120" width="460" height="320"/>
     <rect class="scanline" x="44" width="460" height="2" fill="#00fff2" opacity="0.5"/>
   </g>
 
