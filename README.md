@@ -70,5 +70,7 @@ Saya menggunakan berbagai macam bahasa dan teknologi untuk membangun aplikasi da
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mizuno-as/mizuno-as/master/assets/line-white.gif" width="100%" />
-  <p><i>"Kode yang bagus adalah kode yang ditulis untuk manusia, bukan mesin."</i></p>
+  <p><i>"Hello World"</i></p>
 </div>
+
+![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
