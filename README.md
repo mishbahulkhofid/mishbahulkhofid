@@ -13,7 +13,7 @@
 ## 👨‍💻 Tentang Saya
 Saya adalah seorang pengembang muda yang fokus pada pembuatan solusi digital yang efisien. Saat ini saya menempuh pendidikan di SMK dengan konsentrasi pada pengembangan perangkat lunak. Saya sangat tertarik pada **Backend Architecture**, **Web Development**, dan **Automation**.
 
-- 🔭 **Sedang Mengerjakan:** Project Potoforlio
+- 🔭 **Sedang Membangun:** Portofolio
 - ⚡ **Keahlian Khusus:** Web Development & Object Oriented Programming (Java).
 - 🧠 **Sedang Mendalami:** Data Science dengan Python & Laravel Framework.
 - 📫 **Kontak:** mishbahulkhofid0@gmail.com
