@@ -1,3 +1,4 @@
+<!-- 
 ![Profile Terminal](https://cdn.jsdelivr.net/gh/mishbahulkhofid/mishbahulkhofid@main/assets/terminal-profile-banner.svg)<p align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/-Fullstack%20Developer-0077B5?style=flat-square" />
@@ -7,7 +8,7 @@
 
   "Turning logic into reality, one line of code at a time."
 </div>
-
+-->
 ---
 
 ## 👨‍💻 Tentang Saya
